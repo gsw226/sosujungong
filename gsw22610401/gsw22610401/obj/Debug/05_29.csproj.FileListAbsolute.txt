@@ -1,0 +1,7 @@
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\obj\Debug\05_29.csproj.AssemblyReference.cache
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\obj\Debug\05_29.csproj.CoreCompileInputs.cache
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\bin\Debug\gsw22610401.exe.config
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\bin\Debug\gsw22610401.exe
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\bin\Debug\gsw22610401.pdb
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\obj\Debug\gsw22610401.exe
+C:\Users\Sunrin\source\repos\gsw22610401\gsw22610401\obj\Debug\gsw22610401.pdb
